@@ -4,10 +4,10 @@ TensorCompiler
 ## This Project is a Homework of Compilers
 
 ### Members: 
-* @DapengFeng (Tensor grammar analysis & Tensor Computation & Fix bug)
-* @BoyuChen (Lexical analysis & Grammar analysis)
-* @JingYang (Design GUI)
-* @XiaoranChen (Test)
+* @github/DapengFeng (Tensor grammar analysis & Tensor Computation & Fix bug)
+* @github/BoyuChen (Lexical analysis & Grammar analysis)
+* @github/JingYang (Design GUI)
+* @github/XiaoranChen (Test)
 
 ### Requirement: software
 * 1: Vistual Studio 2017
