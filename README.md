@@ -4,9 +4,12 @@ TensorCompiler
 ## This Project is a Homework of Compilers
 
 ### Members: 
-@github/DapengFeng (Tensor grammar analysis & Tensor Computation & Fix bug)
+@DapengFeng (Tensor grammar analysis & Tensor Computation & Fix bug)
+
 @BoyuChen (Lexical analysis & Grammar analysis)
+
 @JingYang (Design GUI)
+
 @XiaoranChen (Test)
 
 ### Requirement: software
