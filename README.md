@@ -1,13 +1,13 @@
 TensorCompiler
-=====
+==============
 
 ## This Project is a Homework of Compilers
 
 ### Members: 
-* Dapeng Feng
-* Boyu Chen
-* Jing Yang
-* Xiaoran Chen
+* Dapeng Feng (Tensor Computation & Fix bug)
+* Boyu Chen ()
+* Jing Yang (GUI Design)
+* Xiaoran Chen (Test)
 
 ### Requirement: software
 * 1: Vistual Studio 2017
