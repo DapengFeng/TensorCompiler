@@ -8,7 +8,7 @@ TensorCompiler
 
 @BoyuChen (Lexical analysis & Grammar analysis)
 
-@JingYang (Design GUI)
+[@JingYang](https://github.com/jingyangcarl) (Design GUI)
 
 @XiaoranChen (Test)
 
