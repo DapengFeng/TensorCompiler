@@ -6,7 +6,7 @@ TensorCompiler
 ### Members: 
 [@DapengFeng](https://github.com/DapengFeng) (Tensor grammar analysis & Tensor Computation & Fix bug)
 
-@BoyuChen (Lexical analysis & Grammar analysis)
+[@BoyuChen](https://github.com/joeybyc) (Lexical analysis & Grammar analysis)
 
 [@JingYang](https://github.com/jingyangcarl) (Design GUI)
 
